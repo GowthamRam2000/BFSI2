@@ -1,0 +1,186 @@
+[
+  {
+    "customer_id": "CUST001",
+    "name": "Ananya Rao",
+    "age": 29,
+    "city": "Bengaluru",
+    "phone": "9810011122",
+    "email": "ananya.rao@example.com",
+    "address": "12 MG Road, Bengaluru, KA 560001",
+    "pan": "ASDPR1234K",
+    "dob": "1995-02-11",
+    "employer": "FinEdge Solutions",
+    "monthly_salary": 72000,
+    "existing_loans": [
+      {"type": "auto", "outstanding": 210000, "emi": 7800}
+    ],
+    "credit_score": 781,
+    "pre_approved_limit": 350000,
+    "interest_rate": 12.5
+  },
+  {
+    "customer_id": "CUST002",
+    "name": "Rahul Mehta",
+    "age": 34,
+    "city": "Mumbai",
+    "phone": "9822012233",
+    "email": "rahul.mehta@example.com",
+    "address": "88 Bandra West, Mumbai, MH 400050",
+    "pan": "BDCPM5678L",
+    "dob": "1990-07-09",
+    "employer": "Axis Mobility",
+    "monthly_salary": 98000,
+    "existing_loans": [
+      {"type": "home", "outstanding": 1850000, "emi": 23800}
+    ],
+    "credit_score": 812,
+    "pre_approved_limit": 500000,
+    "interest_rate": 11.9
+  },
+  {
+    "customer_id": "CUST003",
+    "name": "Sneha Iyer",
+    "age": 27,
+    "city": "Chennai",
+    "phone": "9833013344",
+    "email": "sneha.iyer@example.com",
+    "address": "41 Anna Nagar, Chennai, TN 600040",
+    "pan": "CKDPI9012M",
+    "dob": "1997-04-23",
+    "employer": "Blue Matrix",
+    "monthly_salary": 64000,
+    "existing_loans": [],
+    "credit_score": 734,
+    "pre_approved_limit": 250000,
+    "interest_rate": 13.2
+  },
+  {
+    "customer_id": "CUST004",
+    "name": "Amit Singh",
+    "age": 31,
+    "city": "Delhi",
+    "phone": "9844014455",
+    "email": "amit.singh@example.com",
+    "address": "17 Lajpat Nagar, Delhi, DL 110024",
+    "pan": "DTEPS3456N",
+    "dob": "1993-09-01",
+    "employer": "Nova Retail",
+    "monthly_salary": 56000,
+    "existing_loans": [
+      {"type": "personal", "outstanding": 90000, "emi": 5100}
+    ],
+    "credit_score": 698,
+    "pre_approved_limit": 180000,
+    "interest_rate": 14.1
+  },
+  {
+    "customer_id": "CUST005",
+    "name": "Priya Nair",
+    "age": 30,
+    "city": "Kochi",
+    "phone": "9855015566",
+    "email": "priya.nair@example.com",
+    "address": "9 Marine Drive, Kochi, KL 682011",
+    "pan": "EHRPN7890P",
+    "dob": "1994-01-18",
+    "employer": "Harbor Labs",
+    "monthly_salary": 88000,
+    "existing_loans": [
+      {"type": "education", "outstanding": 120000, "emi": 4300}
+    ],
+    "credit_score": 765,
+    "pre_approved_limit": 420000,
+    "interest_rate": 12.1
+  },
+  {
+    "customer_id": "CUST006",
+    "name": "Karan Patel",
+    "age": 28,
+    "city": "Ahmedabad",
+    "phone": "9866016677",
+    "email": "karan.patel@example.com",
+    "address": "53 CG Road, Ahmedabad, GJ 380009",
+    "pan": "FJKPP1122Q",
+    "dob": "1996-05-30",
+    "employer": "Orbit Logistics",
+    "monthly_salary": 61000,
+    "existing_loans": [],
+    "credit_score": 748,
+    "pre_approved_limit": 260000,
+    "interest_rate": 13.4
+  },
+  {
+    "customer_id": "CUST007",
+    "name": "Meera Kulkarni",
+    "age": 36,
+    "city": "Pune",
+    "phone": "9877017788",
+    "email": "meera.kulkarni@example.com",
+    "address": "21 FC Road, Pune, MH 411004",
+    "pan": "GHLPM3344R",
+    "dob": "1988-11-14",
+    "employer": "Aster Health",
+    "monthly_salary": 105000,
+    "existing_loans": [
+      {"type": "auto", "outstanding": 160000, "emi": 6200}
+    ],
+    "credit_score": 820,
+    "pre_approved_limit": 600000,
+    "interest_rate": 11.5
+  },
+  {
+    "customer_id": "CUST008",
+    "name": "Vikram Das",
+    "age": 33,
+    "city": "Kolkata",
+    "phone": "9888018899",
+    "email": "vikram.das@example.com",
+    "address": "5 Salt Lake, Kolkata, WB 700064",
+    "pan": "HJQPD5566S",
+    "dob": "1991-03-05",
+    "employer": "Evergreen Foods",
+    "monthly_salary": 54000,
+    "existing_loans": [],
+    "credit_score": 712,
+    "pre_approved_limit": 200000,
+    "interest_rate": 13.8
+  },
+  {
+    "customer_id": "CUST009",
+    "name": "Ritu Sharma",
+    "age": 26,
+    "city": "Jaipur",
+    "phone": "9899019900",
+    "email": "ritu.sharma@example.com",
+    "address": "66 MI Road, Jaipur, RJ 302001",
+    "pan": "KLSPR7788T",
+    "dob": "1998-08-19",
+    "employer": "SilkRoute",
+    "monthly_salary": 48000,
+    "existing_loans": [
+      {"type": "personal", "outstanding": 60000, "emi": 2900}
+    ],
+    "credit_score": 705,
+    "pre_approved_limit": 150000,
+    "interest_rate": 14.4
+  },
+  {
+    "customer_id": "CUST010",
+    "name": "Devika Menon",
+    "age": 32,
+    "city": "Hyderabad",
+    "phone": "9900020011",
+    "email": "devika.menon@example.com",
+    "address": "73 Jubilee Hills, Hyderabad, TS 500033",
+    "pan": "MNOPD9900U",
+    "dob": "1992-12-02",
+    "employer": "Brightwave Media",
+    "monthly_salary": 93000,
+    "existing_loans": [
+      {"type": "home", "outstanding": 980000, "emi": 17900}
+    ],
+    "credit_score": 792,
+    "pre_approved_limit": 480000,
+    "interest_rate": 12.0
+  }
+]
